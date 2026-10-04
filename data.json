@@ -1,0 +1,27 @@
+{
+  "date": "261004",
+  "sequences": {
+    "SP": 2,
+    "SE": 0,
+    "SG": 0
+  },
+  "tickets": [
+    {
+      "id": "muu9hyio60s9",
+      "code": "261004-SP001",
+      "type": "SP",
+      "status": "AGUARDANDO",
+      "calls": 0,
+      "createdAt": 1791145019904
+    },
+    {
+      "id": "muu9hyix1hf5",
+      "code": "261004-SP002",
+      "type": "SP",
+      "status": "AGUARDANDO",
+      "calls": 0,
+      "createdAt": 1791145019913
+    }
+  ],
+  "calls": []
+}
